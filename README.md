@@ -1,6 +1,8 @@
 # Micron't SE30 Beigescale Adapter
  
 Micron XCEED CRT yoke board for internal greyscale on the Macintosh SE/30
+
+![Board front rendering](/images/front.png)
  
 If you've miraculously stumbled across one (or two) of the assorted Micron SE/30 PDS video cards which have the connector for internal greyscale output, the piece you may be missing is the board which slaps onto the back of the CRT to let it run greyscale rather than black and white. (Also the associated adapter harness.)
  
